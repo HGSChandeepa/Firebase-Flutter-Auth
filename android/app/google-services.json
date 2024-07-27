@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950263068238",
+    "project_id": "fir-auth-tutorial-2f504",
+    "storage_bucket": "fir-auth-tutorial-2f504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950263068238:android:60f10ea97b98908218751f",
+        "android_client_info": {
+          "package_name": "com.example.authfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQsUjBbamTs4_im55hq6IpoqBrJTRuGp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
